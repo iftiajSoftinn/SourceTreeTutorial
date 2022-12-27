@@ -1,5 +1,9 @@
 <p align="right"><a href="../README.md#contents">Go back</a></p>
 
+new commit
+
+second commit
+
 # Committing, [git commit](https://git-scm.com/docs/git-commit)
 
 It is simply used to save changes to the local repository. Commits can be though as snapshots of a project in a certain timeline. Also, commit command will not save changes to remote, it will affect only the local repository. Since git can't know which changes needs to be saved, files and changes which needs to be saved has to be [staged](Stage.md#staging-git-stage) before committing.
